@@ -1,0 +1,14 @@
+id: tft-2.1-480x480-mipi-st7701
+category: displays
+
+size: "2.1"
+panel: tft
+resolution: 480x480
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP210H003-V1
+    driver: ST7701S
+    touch: unnamed
+    note: IPS
