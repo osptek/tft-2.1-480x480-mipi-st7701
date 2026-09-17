@@ -6,6 +6,7 @@ panel: tft
 resolution: 480x480
 interface: [mipi]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP210H003-V1
