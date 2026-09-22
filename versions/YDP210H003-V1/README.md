@@ -53,6 +53,7 @@ OSPTEK **2.1 寸 480×480 TFT（IPS）** 是一款 **MIPI** 接口彩色显示�
 | 说明 | 路径 |
 | ---- | ---- |
 | ESP32-P4 · ST7701 MIPI + LVGL9 | [`examples/esp32p4-idf5_st7701-mipi_lvgl9/`](./examples/esp32p4-idf5_st7701-mipi_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7701-mipi_lvgl9/`](./examples/esp32p4-idf6_st7701-mipi_lvgl9/) |
 | Raspberry Pi 5 · ST7701 480×480 panel / DT overlay | [`examples/rpi5-panel-st7701-480x480/`](./examples/rpi5-panel-st7701-480x480/) |
 
 ## 仓库结构
@@ -80,6 +81,7 @@ tft-2.1-480x480-mipi-st7701/          # 仓库根（导航见 ../../README.md）
 ### 示例工程
 
 - [ESP32-P4 ST7701 MIPI + LVGL9](./examples/esp32p4-idf5_st7701-mipi_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9](./examples/esp32p4-idf6_st7701-mipi_lvgl9/)
 - [Raspberry Pi 5 ST7701 panel](./examples/rpi5-panel-st7701-480x480/)
 
 ## 购买链接

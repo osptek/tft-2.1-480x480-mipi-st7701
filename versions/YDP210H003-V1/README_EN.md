@@ -53,6 +53,7 @@ Current module version: **YDP210H003-V1**. Electrical and mechanical details fol
 | Description | Path |
 | ----------- | ---- |
 | ESP32-P4 · ST7701 MIPI + LVGL9 | [`examples/esp32p4-idf5_st7701-mipi_lvgl9/`](./examples/esp32p4-idf5_st7701-mipi_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7701-mipi_lvgl9/`](./examples/esp32p4-idf6_st7701-mipi_lvgl9/) |
 | Raspberry Pi 5 · ST7701 480×480 panel / DT overlay | [`examples/rpi5-panel-st7701-480x480/`](./examples/rpi5-panel-st7701-480x480/) |
 
 ## Repository layout
@@ -80,6 +81,7 @@ tft-2.1-480x480-mipi-st7701/          # repo root (nav: ../../README_EN.md)
 ### Sample projects
 
 - [ESP32-P4 ST7701 MIPI + LVGL9](./examples/esp32p4-idf5_st7701-mipi_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7701 MIPI + LVGL 9](./examples/esp32p4-idf6_st7701-mipi_lvgl9/)
 - [Raspberry Pi 5 ST7701 panel](./examples/rpi5-panel-st7701-480x480/)
 
 ## Buy

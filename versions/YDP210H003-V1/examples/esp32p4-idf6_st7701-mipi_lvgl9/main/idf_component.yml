@@ -1,0 +1,9 @@
+dependencies:
+  idf:
+    version: '>=5.5.0'
+  lvgl/lvgl:
+    version: 9.4.*
+    public: true
+  espressif/esp_lcd_st7701:
+    version: 2.0.*
+    public: true
